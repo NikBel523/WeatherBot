@@ -29,4 +29,3 @@ def give_forecast(lat, long):
         return "UMBRELLA!!!"
     else:
         return "not rain"
-
